@@ -1,0 +1,10 @@
+SilKit:
+  Version: 1
+
+  Participants:
+    - Name: Gateway
+      CanControllers:
+        - Name: CAN1
+          CanBus:
+            Name: CAN1
+            BaudRate: 500000
