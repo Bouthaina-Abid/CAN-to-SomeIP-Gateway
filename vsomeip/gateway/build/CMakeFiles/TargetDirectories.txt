@@ -1,3 +1,0 @@
-/home/bouthaina/vsomeip/gateway/build/CMakeFiles/vsomeip_gateway.dir
-/home/bouthaina/vsomeip/gateway/build/CMakeFiles/edit_cache.dir
-/home/bouthaina/vsomeip/gateway/build/CMakeFiles/rebuild_cache.dir

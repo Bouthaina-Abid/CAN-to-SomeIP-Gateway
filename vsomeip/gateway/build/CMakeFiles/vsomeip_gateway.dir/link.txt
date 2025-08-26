@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/vsomeip_gateway.dir/main.cpp.o CMakeFiles/vsomeip_gateway.dir/can_socket.cpp.o CMakeFiles/vsomeip_gateway.dir/someip_gateway.cpp.o -o vsomeip_gateway   -L/home/bouthaina/vsomeip/gateway/../install/lib  -Wl,-rpath,/home/bouthaina/vsomeip/gateway/../install/lib -lvsomeip3 -lpthread -ldl 
